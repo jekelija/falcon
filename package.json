@@ -8,9 +8,17 @@
     "export": "next export"
   },
   "dependencies": {
+    "@monaco-editor/react": "^4.5.2",
     "cypress": "^10.0.3",
+    "i18next": "^23.4.6",
     "next": "^12.1.5",
+    "next-i18next": "^14.0.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-i18next": "^13.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1",
+    "typescript": "5.2.2"
   }
 }
